@@ -1,0 +1,863 @@
+[20:56:03] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[20:56:04] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[20:56:04] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[20:56:04] [main/INFO]: Forge Mod Loader version 7.99.40.1614 for Minecraft 1.7.10 loading
+[20:56:04] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\jre\jre-legacy\windows-x64\jre-legacy
+[20:56:04] [main/WARN]: The coremod aroma1997.core.coremod.CoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:56:04] [main/INFO]: Loading tweaker me.guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.0.1.jar
+[20:56:04] [main/WARN]: The coremod codechicken.core.launch.CodeChickenCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:56:05] [main/WARN]: The coremod makeo.gadomancy.coremod.GadomancyCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:56:05] [main/WARN]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:56:05] [main/WARN]: The coremod codechicken.nei.asm.NEICorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:56:05] [main/WARN]: The coremod thaumcraft.codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:56:05] [main/WARN]: The coremod thaumic.tinkerer.preloader.ThaumicTLoaderContainer does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:56:05] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:56:05] [main/INFO]: Loading tweak class name me.guichaguri.betterfps.tweaker.BetterFpsTweaker
+[20:56:05] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[20:56:05] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:56:05] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:56:05] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:56:06] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[20:56:07] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[20:56:07] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:56:07] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:56:07] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:56:07] [main/INFO]: Finished data injection.
+[20:56:07] [main/INFO]: Finished data injection.
+[20:56:07] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:56:07] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:56:07] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:56:07] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:56:07] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:56:07] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:56:07] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:56:07] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:56:07] [main/INFO]: Calling tweak class me.guichaguri.betterfps.tweaker.BetterFpsTweaker
+[20:56:07] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[20:56:07] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[20:56:07] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[20:56:07] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[20:56:07] [main/INFO]: Patching Game Start...
+[20:56:08] [main/INFO]: [CORE] Patching onNewPotionEffect
+[20:56:08] [main/INFO]: [GadomancyTransformer] Transforming sv: net.minecraft.entity.EntityLivingBase
+[20:56:09] [main/INFO]: Environment: ElyEnvironment[name=ely,authHost=https://authserver.ely.by/auth,accountsHost=https://account.ely.by/api/mojang,sessionHost=https://account.ely.by/api/minecraft/session,servicesHost=<null>]
+[20:56:09] [main/INFO]: [CertJavaAgent] JRE trust store doesn't contain Cert{CN=ISRG Root X1,O=Internet Security Research Group,C=US,SHA-1:cabd2a79a1076a31f21d253635cb039d4329a5e8,SHA-256:96bcec06264976f37460779acf28c5a7cfe8a3c0aae11a8ffcee05c0bddf08c6}
+[20:56:09] [main/INFO]: [CertJavaAgent] Will use updated KeyStore that includes missing certificates
+[20:56:09] [main/INFO]: Setting user: Chedmass
+[20:56:10] [main/INFO]: Patching Minecraft using Riven's "Half" Algorithm
+[20:56:11] [Client thread/INFO]: Patching Key Event...
+[20:56:11] [Client thread/INFO]: LWJGL Version: 2.9.1
+[20:56:12] [Client thread/INFO]: [cpw.mods.fml.client.SplashProgress:start:188]: ---- Minecraft Crash Report ----
+// I bet Cylons wouldn't have this problem.
+
+Time: 23.08.23 20:56
+Description: Loading screen debug info
+
+This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 1820066128 bytes (1735 MB) / 2147483648 bytes (2048 MB) up to 2147483648 bytes (2048 MB)
+	JVM Flags: 13 total; -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:+ParallelRefProcEnabled -Xms2048M -Xmx2048M -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss2M
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 536.99' Renderer: 'NVIDIA GeForce GTX 1050/PCIe/SSE2'
+[20:56:12] [Client thread/INFO]: Attempting early MinecraftForge initialization
+[20:56:12] [Client thread/INFO]: MinecraftForge v10.13.4.1614 Initialized
+[20:56:12] [Client thread/INFO]: Replaced 183 ore recipies
+[20:56:13] [Client thread/INFO]: Completed early MinecraftForge initialization
+[20:56:13] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[20:56:13] [Client thread/INFO]: Searching E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\mods for mods
+[20:56:13] [Client thread/INFO]: Also searching E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\mods\1.7.10 for mods
+[20:56:23] [Client thread/WARN]: Mod Aroma1997CoreHelper is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.2.16
+[20:56:23] [Client thread/WARN]: Mod AromaBackup is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.1.0.0
+[20:56:23] [Client thread/WARN]: Mod AromaBackupRecovery is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+[20:56:23] [Client thread/INFO]: Mod BotaniaVisualizer is missing the required element 'name'. Substituting BotaniaVisualizer
+[20:56:24] [Client thread/WARN]: Mod ExtraUtilities is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.12
+[20:56:26] [Client thread/WARN]: Mod tcinventoryscan is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.11
+[20:56:27] [Client thread/WARN]: Mod waystones is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.12
+[20:56:27] [Client thread/INFO]: Forge Mod Loader has identified 52 mods to load
+[20:56:28] [Client thread/INFO]: Found mod(s) [TravellersGear] containing declared API package baubles.api (owned by Baubles) without associated API reference
+[20:56:28] [Client thread/INFO]: Found mod(s) [ExtraUtilities] containing declared API package baubles.api (owned by Baubles) without associated API reference
+[20:56:29] [Client thread/INFO]: FML has found a non-mod file CodeChickenLib-1.7.10-1.1.3.141-universal.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[20:56:29] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, Aroma1997Core, CodeChickenCore, NotEnoughItems, ThaumicTinkerer-preloader, WitchingGadgetsCore, AdvancedBotany, aether_legacy, AnimationAPI, Aroma1997CoreHelper, AromaBackup, AromaBackupRecovery, BaublesHud, BiomesOPlenty, BloodArsenal, AWWayofTime, Botania, BotaniaVisualizer, chunkpregenerator, MineTweaker3, ExtraUtilities, gadomancy, gravestone, inventorytweaks, ironbackpacks, IronChest, journeymap, modtweaker2, nevermine, NodalMechanics, harvestcraft, Roguelike, StorageDrawers, TaintedMagic, tcinventoryscan, Thaumcraft, thaumcraftneiplugin, ThaumicHorizons, ThaumicTinkerer, tradeboothmod, TravellersGear, TwilightForest, Waila, WailaHarvestability, waystones, witchery, witcherypatch, WitchingGadgets, ZDoctorBB, Baubles] at CLIENT
+[20:56:29] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, Aroma1997Core, CodeChickenCore, NotEnoughItems, ThaumicTinkerer-preloader, WitchingGadgetsCore, AdvancedBotany, aether_legacy, AnimationAPI, Aroma1997CoreHelper, AromaBackup, AromaBackupRecovery, BaublesHud, BiomesOPlenty, BloodArsenal, AWWayofTime, Botania, BotaniaVisualizer, chunkpregenerator, MineTweaker3, ExtraUtilities, gadomancy, gravestone, inventorytweaks, ironbackpacks, IronChest, journeymap, modtweaker2, nevermine, NodalMechanics, harvestcraft, Roguelike, StorageDrawers, TaintedMagic, tcinventoryscan, Thaumcraft, thaumcraftneiplugin, ThaumicHorizons, ThaumicTinkerer, tradeboothmod, TravellersGear, TwilightForest, Waila, WailaHarvestability, waystones, witchery, witcherypatch, WitchingGadgets, ZDoctorBB, Baubles] at SERVER
+[20:56:30] [Client thread/INFO]: [GadomancyTransformer] Transforming thaumcraft.client.lib.RenderEventHandler: thaumcraft.client.lib.RenderEventHandler
+[20:56:31] [Client thread/INFO]: [GadomancyTransformer] Transforming thaumcraft.client.renderers.tile.TileNodeRenderer: thaumcraft.client.renderers.tile.TileNodeRenderer
+[20:56:31] [Client thread/INFO]: [GadomancyTransformer] Transforming thaumcraft.common.items.wands.WandManager: thaumcraft.common.items.wands.WandManager
+[20:56:32] [Client thread/INFO]: InvTweaks: net.minecraft.inventory.Container
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: java.lang.RuntimeException: ZenSetter must have exactly one parameter - minetweaker.api.vanilla.ILootFunction.setName
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at stanhebben.zenscript.type.ZenTypeNative.checkSetter(ZenTypeNative.java:351)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at stanhebben.zenscript.type.ZenTypeNative.complete(ZenTypeNative.java:148)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at minetweaker.runtime.GlobalRegistry.registerNativeClass(GlobalRegistry.java:92)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at minetweaker.MineTweakerAPI.registerClass(MineTweakerAPI.java:340)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at minetweaker.MineTweakerAPI.registerClassRegistry(MineTweakerAPI.java:281)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at minetweaker.MineTweakerAPI.<clinit>(MineTweakerAPI.java:75)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at minetweaker.MineTweakerImplementationAPI.init(MineTweakerImplementationAPI.java:561)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at minetweaker.mc1710.MineTweakerMod.<init>(MineTweakerMod.java:85)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.Class.newInstance(Class.java:442)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.ILanguageAdapter$JavaAdapter.getNewInstance(ILanguageAdapter.java:173)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:506)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.GeneratedMethodAccessor5.invoke(Unknown Source)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.Loader.loadMods(Loader.java:513)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:208)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:480)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.client.main.Main.main(SourceFile:148)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[20:56:33] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[20:56:36] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Advanced Botany, FMLFileResourcePack:The Aether, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Aroma1997Core|Helper, FMLFileResourcePack:AromaBackup, FMLFileResourcePack:AromaBackup Recovery, FMLFileResourcePack:Baubles-Hud, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Blood Arsenal, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Botania, FMLFileResourcePack:BotaniaVisualizer, FMLFileResourcePack:Chunk Pregenerator, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Gadomancy, FMLFileResourcePack:Gravestone, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Backpacks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Mod Tweaker 2, FMLFileResourcePack:Advent of Ascension, FMLFileResourcePack:NodalMechanics, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:Roguelike Dungeons, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Tainted Magic, FMLFileResourcePack:TC Inventory Scanning, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumcraft NEI Plugin, FMLFileResourcePack:ThaumicHorizons, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:TradeBooth, FMLFileResourcePack:Traveller's Gear, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Waila, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:Waystones, FMLFileResourcePack:Witchery, FMLFileResourcePack:WitcheryPatch, FMLFileResourcePack:Witching Gadgets, FMLFileResourcePack:Blood Baubles, FMLFileResourcePack:Baubles
+[20:56:36] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[20:56:36] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[20:56:36] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[20:56:36] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[20:56:36] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[20:56:36] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[20:56:36] [Client thread/INFO]: Processing ObjectHolder annotations
+[20:56:36] [Client thread/INFO]: Found 340 ObjectHolder annotations
+[20:56:36] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[20:56:36] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[20:56:36] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[20:56:36] [Client thread/INFO]: Logger initialized.
+[20:56:36] [Client thread/INFO]: Finished Pre-initialization.
+[20:56:37] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+[20:56:37] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.gson.Gson.fromJson(Gson.java:815)
+[20:56:37] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.gson.Gson.fromJson(Gson.java:768)
+[20:56:37] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.gson.Gson.fromJson(Gson.java:717)
+[20:56:37] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.gson.Gson.fromJson(Gson.java:689)
+[20:56:37] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraftforge.common.ForgeVersion$1.run(ForgeVersion.java:94)
+[20:56:37] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+[20:56:37] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:374)
+[20:56:37] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183)
+[20:56:37] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145)
+[20:56:37] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.gson.Gson.fromJson(Gson.java:803)
+[20:56:37] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	... 4 more
+[20:56:37] [Client thread/INFO]: [CORE] Patching Thaumcraft's Worldgen
+[20:56:38] [Client thread/INFO]: [CORE] Patching Pouch - Interfaces
+[20:56:38] [Client thread/INFO]: [CORE] Patching Pouch - Methods
+[20:56:38] [Client thread/INFO]: [CORE] Patching Boots
+[20:56:40] [Client thread/INFO]: InvTweaks: net.minecraft.inventory.ContainerWorkbench
+[20:56:40] [Client thread/INFO]: [Botania] Registered 1215 recipes.
+[20:56:40] [Client thread/INFO]: Helping Aroma1997Core
+[20:56:40] [Client thread/INFO]: Using Dimension Blacklist with  0 entries.
+[20:56:42] [Client thread/INFO]: Trail info successfully received from remote.
+[20:56:43] [Client thread/INFO]: [com.arc.bloodarsenal.common.block.ModBlocks:registerBlock:103]: 
+[20:56:43] [Client thread/INFO]: [com.arc.bloodarsenal.common.block.ModBlocks:registerBlock:103]: 
+[20:56:43] [Client thread/INFO]: [com.arc.bloodarsenal.common.block.ModBlocks:registerBlock:103]: 
+[20:56:43] [Client thread/INFO]: Made the Pregenerator ThreadSave
+[20:56:44] [Client thread/INFO]: Hello World
+[20:56:44] [Client thread/INFO]: InvTweaks: invtweaks.InvTweaksObfuscation
+[20:56:44] [Client thread/INFO]: Starting PreInitialization for modtweaker2
+[20:56:51] [Client thread/INFO]: Pre-initializing Tainted Magic!
+[20:56:51] [Client thread/INFO]: Loading config...
+[20:56:56] [Client thread/INFO]: Setting up 'WitchingGadgets'
+[20:56:56] [Client thread/WARN]: ****************************************
+[20:56:56] [Client thread/WARN]: * Invalid registration attempt for an Ore Dictionary item with name blockVoid has occurred. The registration has been denied to prevent crashes. The mod responsible for the registration needs to correct this.
+[20:56:56] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:522)
+[20:56:56] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[20:56:56] [Client thread/WARN]: *  at witchinggadgets.common.WGContent.preInitItems(WGContent.java:346)
+[20:56:56] [Client thread/WARN]: *  at witchinggadgets.common.WGContent.preInit(WGContent.java:156)
+[20:56:56] [Client thread/WARN]: *  at witchinggadgets.WitchingGadgets.preInit(WitchingGadgets.java:70)
+[20:56:56] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)...
+[20:56:56] [Client thread/WARN]: ****************************************
+[20:56:56] [Client thread/INFO]: Applying holder lookups
+[20:56:56] [Client thread/INFO]: Holder lookups applied
+[20:56:56] [Client thread/INFO]: Injecting itemstacks
+[20:56:56] [Client thread/INFO]: Itemstack injection complete
+[20:56:56] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[20:56:56] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[20:56:56] [Thread-9/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[20:56:56] [Thread-9/INFO]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:56:56] [Thread-9/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[20:56:56] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[20:56:56] [Sound Library Loader/INFO]: Sound engine started
+[20:56:57] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[20:56:57] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[20:56:57] [Client thread/INFO]: Finished Initialization.
+[20:56:57] [Client thread/ERROR]: Unable to do mod description scrolling due to lack of stencil buffer
+[20:56:57] [Client thread/ERROR]: Unable to do mod description scrolling due to lack of stencil buffer
+[20:56:58] [Client thread/INFO]: InvTweaks: net.minecraft.inventory.ContainerEnchantment
+[20:56:58] [Client thread/INFO]: InvTweaks: net.minecraft.client.gui.GuiTextField
+[20:56:58] [Client thread/INFO]: InvTweaks: successfully transformed setFocused/func_146195_b
+[20:57:00] [Client thread/INFO]: InvTweaks: Configuration loaded.
+[20:57:00] [Client thread/INFO]: Mod initialized
+[20:57:00] [Client thread/INFO]: JourneyMap log initialized.
+[20:57:00] [Client thread/INFO]: initialize ENTER
+[20:57:00] [Client thread/INFO]: Loaded CoreProperties from E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\journeymap\config\5.1\journeymap.core.config
+[20:57:00] [Client thread/INFO]: Loaded FullMapProperties from E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\journeymap\config\5.1\journeymap.fullmap.config
+[20:57:00] [Client thread/INFO]: Loaded MiniMapProperties from E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\journeymap\config\5.1\journeymap.minimap.config
+[20:57:00] [Client thread/INFO]: Loaded MiniMapProperties2 from E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\journeymap\config\5.1\journeymap.minimap2.config
+[20:57:00] [Client thread/INFO]: Loaded WebMapProperties from E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\journeymap\config\5.1\journeymap.webmap.config
+[20:57:00] [Client thread/INFO]: Loaded WaypointProperties from E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\journeymap\config\5.1\journeymap.waypoint.config
+[20:57:00] [Client thread/INFO]: initialize EXIT, elapsed count 0 avg �ms
+[20:57:00] [Client thread/INFO]: Starting Initialization for modtweaker2
+[20:57:00] [Client thread/INFO]: [stanhebben.zenscript.type.natives.JavaMethod:<init>:49]: All optionals need to be placed at the end of the method declaration: public static void modtweaker2.mods.thaumcraft.handlers.Research.addResearch(java.lang.String,java.lang.String,java.lang.String,int,int,int,java.lang.String,java.lang.String)! Setting last parameters to optional
+[20:57:00] [Client thread/INFO]: [stanhebben.zenscript.type.natives.JavaMethod:<init>:49]: All optionals need to be placed at the end of the method declaration: public static void modtweaker2.mods.thaumcraft.handlers.Research.addResearch(java.lang.String,java.lang.String,java.lang.String,int,int,int,java.lang.String,java.lang.String)! Setting last parameters to optional
+[20:57:00] [Client thread/INFO]: [stanhebben.zenscript.type.natives.JavaMethod:<init>:49]: All optionals need to be placed at the end of the method declaration: public static void modtweaker2.mods.thaumcraft.handlers.Research.addResearch(java.lang.String,java.lang.String,java.lang.String,int,int,int,java.lang.String,java.lang.String)! Setting last parameters to optional
+[20:57:00] [Client thread/INFO]: [stanhebben.zenscript.type.natives.JavaMethod:<init>:49]: All optionals need to be placed at the end of the method declaration: public static void modtweaker2.mods.thaumcraft.handlers.Research.addResearch(java.lang.String,java.lang.String,java.lang.String,int,int,int,java.lang.String,java.lang.String)! Setting last parameters to optional
+[20:57:00] [Client thread/INFO]: [stanhebben.zenscript.type.natives.JavaMethod:<init>:49]: All optionals need to be placed at the end of the method declaration: public static void modtweaker2.mods.thaumcraft.handlers.Research.addResearch(java.lang.String,java.lang.String,java.lang.String,int,int,int,java.lang.String,java.lang.String)! Setting last parameters to optional
+[20:57:00] [Client thread/INFO]: [stanhebben.zenscript.type.natives.JavaMethod:<init>:49]: All optionals need to be placed at the end of the method declaration: public static void modtweaker2.mods.thaumcraft.handlers.Research.addResearch(java.lang.String,java.lang.String,java.lang.String,int,int,int,minetweaker.api.item.IItemStack,minetweaker.api.item.IItemStack[],java.lang.String[])! Setting last parameters to optional
+[20:57:00] [Client thread/INFO]: [stanhebben.zenscript.type.natives.JavaMethod:<init>:49]: All optionals need to be placed at the end of the method declaration: public static void modtweaker2.mods.thaumcraft.handlers.Research.addResearch(java.lang.String,java.lang.String,java.lang.String,int,int,int,minetweaker.api.item.IItemStack,minetweaker.api.item.IItemStack[],java.lang.String[])! Setting last parameters to optional
+[20:57:00] [Client thread/INFO]: [stanhebben.zenscript.type.natives.JavaMethod:<init>:49]: All optionals need to be placed at the end of the method declaration: public static void modtweaker2.mods.thaumcraft.handlers.Research.addResearch(java.lang.String,java.lang.String,java.lang.String,int,int,int,minetweaker.api.item.IItemStack,minetweaker.api.item.IItemStack[],java.lang.String[])! Setting last parameters to optional
+[20:57:00] [Client thread/INFO]: [stanhebben.zenscript.type.natives.JavaMethod:<init>:49]: All optionals need to be placed at the end of the method declaration: public static void modtweaker2.mods.thaumcraft.handlers.Research.addResearch(java.lang.String,java.lang.String,java.lang.String,int,int,int,minetweaker.api.item.IItemStack,minetweaker.api.item.IItemStack[],java.lang.String[])! Setting last parameters to optional
+[20:57:00] [Client thread/INFO]: [stanhebben.zenscript.type.natives.JavaMethod:<init>:49]: All optionals need to be placed at the end of the method declaration: public static void modtweaker2.mods.thaumcraft.handlers.Research.addResearch(java.lang.String,java.lang.String,java.lang.String,int,int,int,minetweaker.api.item.IItemStack,minetweaker.api.item.IItemStack[],java.lang.String[])! Setting last parameters to optional
+[20:57:00] [Client thread/INFO]: [stanhebben.zenscript.type.natives.JavaMethod:<init>:49]: All optionals need to be placed at the end of the method declaration: public static void modtweaker2.mods.thaumcraft.handlers.Research.addResearch(java.lang.String,java.lang.String,java.lang.String,int,int,int,minetweaker.api.item.IItemStack,minetweaker.api.item.IItemStack[],java.lang.String[])! Setting last parameters to optional
+[20:57:00] [Client thread/INFO]: [stanhebben.zenscript.type.natives.JavaMethod:<init>:49]: All optionals need to be placed at the end of the method declaration: public static void modtweaker2.mods.thaumcraft.handlers.Research.addResearch(java.lang.String,java.lang.String,java.lang.String,int,int,int,minetweaker.api.item.IItemStack)! Setting last parameters to optional
+[20:57:00] [Client thread/INFO]: [stanhebben.zenscript.type.natives.JavaMethod:<init>:49]: All optionals need to be placed at the end of the method declaration: public static void modtweaker2.mods.thaumcraft.handlers.Research.addResearch(java.lang.String,java.lang.String,java.lang.String,int,int,int,minetweaker.api.item.IItemStack)! Setting last parameters to optional
+[20:57:00] [Client thread/INFO]: [stanhebben.zenscript.type.natives.JavaMethod:<init>:49]: All optionals need to be placed at the end of the method declaration: public static void modtweaker2.mods.thaumcraft.handlers.Research.addResearch(java.lang.String,java.lang.String,java.lang.String,int,int,int,minetweaker.api.item.IItemStack)! Setting last parameters to optional
+[20:57:00] [Client thread/INFO]: [stanhebben.zenscript.type.natives.JavaMethod:<init>:49]: All optionals need to be placed at the end of the method declaration: public static void modtweaker2.mods.thaumcraft.handlers.Research.addResearch(java.lang.String,java.lang.String,java.lang.String,int,int,int,minetweaker.api.item.IItemStack)! Setting last parameters to optional
+[20:57:01] [Client thread/INFO]: Initializing Tainted Magic!
+[20:57:01] [Client thread/INFO]: Skipping TC Multipart integration
+[20:57:02] [Client thread/WARN]: witchery: Another mod has overwritten Witchery potion witchery:potion.enslaved in slot 86! offender: Fire Imbued.
+[20:57:02] [Client thread/WARN]: witchery: Another mod has overwritten Witchery potion witchery:potion.mortalcoil in slot 87! offender: Wated Imbued.
+[20:57:02] [Client thread/WARN]: witchery: Another mod has overwritten Witchery potion witchery:potion.poisonweapons in slot 89! offender: Earth Imbued.
+[20:57:02] [Client thread/WARN]: witchery: Another mod has overwritten Witchery potion witchery:potion.reflectprojectiles in slot 90! offender: Air Imbued.
+[20:57:02] [Client thread/WARN]: witchery: Another mod has overwritten Witchery potion witchery:potion.stoutbelly in slot 100! offender: Drowning.
+[20:57:02] [Client thread/WARN]: witchery: Another mod has overwritten Witchery potion witchery:potion.feelnopain in slot 101! offender: Boost.
+[20:57:02] [Client thread/WARN]: witchery: Another mod has overwritten Witchery potion witchery:potion.gasmask in slot 102! offender: Whirlwind.
+[20:57:02] [Client thread/WARN]: witchery: Another mod has overwritten Witchery potion witchery:potion.diseased in slot 103! offender: Inhibit.
+[20:57:02] [Client thread/WARN]: witchery: Another mod has overwritten Witchery potion witchery:potion.fortune in slot 104! offender: Flight.
+[20:57:02] [Client thread/WARN]: witchery: Another mod has overwritten Witchery potion witchery:potion.worship in slot 105! offender: Reciprocation.
+[20:57:02] [Client thread/WARN]: witchery: Another mod has overwritten Witchery potion witchery:potion.keepeffects in slot 106! offender: Flame Cloak.
+[20:57:02] [Client thread/WARN]: witchery: Another mod has overwritten Witchery potion witchery:potion.wolfsbane in slot 107! offender: Ice Cloak.
+[20:57:03] [Client thread/INFO]: Receiving registration request from [ ThaumicTinkerer ] for method thaumic.tinkerer.common.compat.TTinkererProvider.callbackRegister
+[20:57:03] [Client thread/INFO]: Receiving registration request from [ BloodArsenal ] for method com.arc.bloodarsenal.common.misc.WAILAPlugin.registerAddon
+[20:57:03] [Client thread/INFO]: Receiving registration request from [ StorageDrawers ] for method com.jaquadro.minecraft.storagedrawers.integration.Waila.registerProvider
+[20:57:03] [Client thread/INFO]: Receiving registration request from [ WailaHarvestability ] for method squeek.wailaharvestability.WailaHandler.callbackRegister
+[20:57:03] [Client thread/INFO]: Receiving registration request from [ waystones ] for method net.blay09.mods.waystones.compat.WailaProvider.register
+[20:57:03] [Client thread/INFO]: Receiving registration request from [ witchery ] for method com.emoniph.witchery.integration.ModHookWailaRegistrar.callbackRegister
+[20:57:03] [Client thread/INFO]: Injecting itemstacks
+[20:57:03] [Client thread/INFO]: Itemstack injection complete
+[20:57:03] [Client thread/INFO]: Finished Post-Initialization.
+[20:57:03] [Client thread/INFO]: Found potion array with a size of 352
+[20:57:03] [Client thread/INFO]: Initializing PotionFluxTaint with id 26
+[20:57:03] [Client thread/INFO]: Initializing PotionVisExhaust with id 27
+[20:57:03] [Client thread/INFO]: Initializing PotionInfectiousVisExhaust with id 28
+[20:57:03] [Client thread/INFO]: Initializing PotionUnnaturalHunger with id 29
+[20:57:03] [Client thread/INFO]: Initializing PotionWarpWard with id 30
+[20:57:03] [Client thread/INFO]: Initializing PotionDeathGaze with id 35
+[20:57:03] [Client thread/INFO]: Initializing PotionBlurredVision with id 36
+[20:57:03] [Client thread/INFO]: Initializing PotionSunScorned with id 37
+[20:57:03] [Client thread/INFO]: Initializing PotionThaumarhia with id 38
+[20:57:03] [Client thread/INFO]: Adding entities to MFR safari net blacklist.
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Artichoke Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Asparagus Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Bamboo Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Barley Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Bean Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Beet Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Bell Pepper Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Blackberry Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Blueberry Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Broccoli Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Brussel Sprout Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Cabbage Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Cactus Fruit Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Candleberry Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Cantaloupe Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Cauliflower Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Celery Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Chili Pepper Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Coffee Bean Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Corn Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Cotton Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Cranberry Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Cucumber Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Eggplant Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Garlic Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Ginger Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Grape Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Leek Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Lettuce Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Mustard Seeds Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Oats Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Okra Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Onion Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Parsnip Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Peanut Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Peas Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Pineapple Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Radish Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Raspberry Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Rhubarb Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Rice Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Rutabaga Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Rye Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Scallion Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Seaweed Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Soybean Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Spice Leaf Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Spinach Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Strawberry Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Sweet Potato Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Tea Leaf Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Tomato Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Turnip Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [White Mushroom Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Winter Squash Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Zucchini Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Curry Leaf Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Sesame Seeds Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Water Chestnut Crop]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Apple]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Almond]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Apricot]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Avocado]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Banana]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Cashew]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Cherry]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Chestnut]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Cinnamon Wood]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Coconut]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Date]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Dragonfruit]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Durian]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Fig]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Grapefruit]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Lemon]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Lime]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Mango]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Maple Wood]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Nutmeg]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Olive]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Orange]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Papaya]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Paperbark Wood]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Peach]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Pear]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Pecan]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Peppercorn]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Persimmon]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Pistachio]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Plum]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Pomegranate]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Starfruit]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Vanilla Bean]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Walnut]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Goosberry]
+[20:57:04] [Client thread/WARN]: Blacklisting dimension [-73] to only spawn TC content at level [0]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Water Artichoke]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Belladonna]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Mandrake]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Snowbell]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Wormwood]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Minedrake]
+[20:57:04] [Client thread/WARN]: Adding standard crop support for [Wolfsbane]
+[20:57:04] [Client thread/WARN]: Blacklisting dimension [-37] to only spawn TC content at level [0]
+[20:57:04] [Client thread/WARN]: Blacklisting dimension [-38] to only spawn TC content at level [0]
+[20:57:04] [Client thread/WARN]: Whitelisting [Zombie] to spawn champion mobs at level [0]
+[20:57:04] [Client thread/WARN]: Whitelisting [Spider] to spawn champion mobs at level [0]
+[20:57:04] [Client thread/WARN]: Whitelisting [Blaze] to spawn champion mobs at level [0]
+[20:57:04] [Client thread/WARN]: Whitelisting [Enderman] to spawn champion mobs at level [0]
+[20:57:04] [Client thread/WARN]: Whitelisting [Skeleton] to spawn champion mobs at level [0]
+[20:57:04] [Client thread/WARN]: Whitelisting [Witch] to spawn champion mobs at level [1]
+[20:57:04] [Client thread/WARN]: Whitelisting [Thaumcraft.EldritchCrab] to spawn champion mobs at level [0]
+[20:57:04] [Client thread/WARN]: Whitelisting [Thaumcraft.Taintacle] to spawn champion mobs at level [2]
+[20:57:04] [Client thread/WARN]: Whitelisting [Thaumcraft.Wisp] to spawn champion mobs at level [1]
+[20:57:04] [Client thread/WARN]: Whitelisting [Thaumcraft.InhabitedZombie] to spawn champion mobs at level [3]
+[20:57:04] [Client thread/INFO]: [Botania] The Lexica Botania has 28992 words.
+[20:57:05] [Client thread/INFO]: Loaded Harvestcraft Handlers!
+[20:57:05] [Client thread/INFO]: Loaded MineTweaker 3 Integration
+[20:57:05] [Client thread/INFO]: [CORE] Patching getFortuneModifier & getLootingModifier
+[20:57:05] [Client thread/INFO]: [GadomancyTransformer] Transforming afv: net.minecraft.enchantment.EnchantmentHelper
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.blockGold@0
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.blockIron@0
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.blockDiamond@0
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.blockEmerald@0
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.blockLapis@0
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.blockRedstone@0
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.blockCoal@0
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.hayBlock@0
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xitem.ingotGold@0
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.blazeBlock@0
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.storage@0
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.storage@1
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.storage@2
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.storage@3
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.storage@4
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xitem.manaResource@0
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xitem.manaResource@4
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xitem.manaResource@7
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.reedBlock@0
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.thatch@0
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.gemOre@1
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.gemOre@3
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.gemOre@5
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.gemOre@7
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.gemOre@9
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.gemOre@11
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.gemOre@13
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.gemOre@15
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.chest@0
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.extrautils:block_bedrockium@0
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.extrautils:cobblestone_compressed@0
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.extrautils:cobblestone_compressed@1
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.extrautils:cobblestone_compressed@2
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.extrautils:cobblestone_compressed@3
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.extrautils:cobblestone_compressed@4
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.extrautils:cobblestone_compressed@5
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.extrautils:cobblestone_compressed@6
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.extrautils:cobblestone_compressed@7
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.extrautils:cobblestone_compressed@8
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.extrautils:cobblestone_compressed@9
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.extrautils:cobblestone_compressed@10
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.extrautils:cobblestone_compressed@11
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.extrautils:cobblestone_compressed@12
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.extrautils:cobblestone_compressed@13
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.extrautils:cobblestone_compressed@14
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.extrautils:cobblestone_compressed@15
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.pamcompressedsaltBlock@0
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xitem.ItemMaterial@0
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.abStorage@0
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xitem.resourceAB@5
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.zanite_block@0
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.null@0
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.null@1
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.null@2
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.null@3
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.null@4
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.blood_infused_iron_block@0
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.KnightmetalBlock@0
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.WG_MetalDevice@7
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xitem.ingotIron@0
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xitem.ItemResource@2
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xitem.ItemResource@16
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xitem.ItemResource@3
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.blockCosmeticSolid@4
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.blockCosmeticSolid@5
+[20:57:05] [Client thread/INFO]: Adding the following recipe to the Compression Handler: 1xtile.blockCosmeticOpaque@0
+[20:57:05] [Client thread/INFO]: Total number of compression recipes: 66
+[20:57:05] [Client thread/INFO]: [mcp.mobius.waila.gui.truetyper.TrueTypeFont:<init>:98]: TrueTypeFont loaded: java.awt.Font[family=Minecraftia,name=Minecraftia Regular,style=plain,size=14] - AntiAlias = true
+[20:57:05] [Client thread/INFO]: Loaded Baubles integration
+[20:57:11] [Client thread/INFO]: Initialized hook for mod "NotEnoughItems"!
+[20:57:11] [Client thread/INFO]: Hooked TTinkerer magic-crops
+[20:57:11] [Client thread/INFO]: Initialized hook for mod "ThaumicTinkerer"!
+[20:57:11] [Client thread/INFO]: postInitialize ENTER
+[20:57:11] [Client thread/INFO]: Registered channel: world_info
+[20:57:11] [Client thread/INFO]: Initializing icon sets...
+[20:57:12] [JM-VersionCheck-1/ERROR]: Could not check version URL
+java.net.UnknownHostException: widget.mcf.li
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184) ~[?:1.8.0_51]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172) ~[?:1.8.0_51]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_51]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_51]
+	at java.net.Socket.connect(Socket.java:538) ~[?:1.8.0_51]
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180) ~[?:1.8.0_51]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432) ~[?:1.8.0_51]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527) ~[?:1.8.0_51]
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211) ~[?:1.8.0_51]
+	at sun.net.www.http.HttpClient.New(HttpClient.java:308) ~[?:1.8.0_51]
+	at sun.net.www.http.HttpClient.New(HttpClient.java:326) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1168) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1104) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:988) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:986) ~[?:1.8.0_51]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_51]
+	at java.security.AccessController.doPrivileged(AccessController.java:713) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:985) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:932) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1512) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430) ~[?:1.8.0_51]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_51]
+	at java.security.AccessController.doPrivileged(AccessController.java:713) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429) ~[?:1.8.0_51]
+	at java.net.URL.openStream(URL.java:1038) ~[?:1.8.0_51]
+	at journeymap.common.version.VersionCheck$1.run(VersionCheck.java:128) [VersionCheck$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_51]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_51]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[20:57:12] [Client thread/INFO]: postInitialize EXIT, elapsed§8 count §r1§8 avg §r857,96§8ms§r
+[20:57:12] [Client thread/INFO]: Starting PostInitialization for modtweaker2
+[20:57:12] [Client thread/INFO]: Post-initializing Tainted Magic!
+[20:57:12] [Client thread/INFO]: Loading complete!
+[20:57:12] [Client thread/INFO]: [TwilightForest] Loaded ThaumcraftApi integration.
+[20:57:12] [Client thread/WARN]: [TwilightForest] Biome ID conflict.  Biome ID 127 contains a biome named Aether, but Twilight Forest is set to use that ID.
+[20:57:12] [Client thread/WARN]: [TwilightForest] Biome ID conflict detected.  Edit the Twilight Forest config to give all biomes unique IDs.
+[20:57:12] [Client thread/INFO]:   Unknown recipe class! makeo.gadomancy.common.crafting.FamiliarUndoRecipe Modder please refer to net.minecraftforge.oredict.RecipeSorter
+[20:57:12] [Client thread/WARN]: [BC] Class not found. java.lang.ClassNotFoundException: buildcraft.factory.TileTank
+[20:57:12] [Client thread/WARN]: [IndustrialCraft 2] Error while loading generator hooks.java.lang.ClassNotFoundException: ic2.core.block.generator.tileentity.TileEntityBaseGenerator
+[20:57:12] [Client thread/INFO]: [EnderStorage] EnderStorage mod not found.
+[20:57:12] [Client thread/INFO]: [GraveStone] GraveStone mod not found.
+[20:57:12] [Client thread/INFO]: TwilightForestMod mod found.
+[20:57:12] [Client thread/WARN]: [Thermal Expansion] Error while loading Energy hooks.java.lang.ClassNotFoundException: cofh.api.tileentity.IEnergyInfo
+[20:57:12] [Client thread/WARN]: [Thermal Expansion] Error while loading Energy Cell hooks.java.lang.ClassNotFoundException: cofh.thermalexpansion.block.cell.TileCell
+[20:57:12] [Client thread/WARN]: [Thermal Expansion] Error while loading Tank hooks.java.lang.ClassNotFoundException: cofh.thermalexpansion.block.tank.TileTank
+[20:57:12] [Client thread/WARN]: [Thermal Expansion] Error while loading Tesseract hooks.java.lang.ClassNotFoundException: cofh.thermalexpansion.block.ender.TileTesseract
+[20:57:12] [Client thread/WARN]: [Thermal Expansion] Error while loading ISecureTile hooks.java.lang.ClassNotFoundException: cofh.api.tileentity.ISecurable
+[20:57:12] [Client thread/WARN]: [Thermal Expansion] Error while loading Tesseract hooks.java.lang.ClassNotFoundException: cofh.thermalexpansion.block.cache.TileCache
+[20:57:12] [Client thread/WARN]: [Thermal Dynamics] Error while loading FluidDuct hooks.java.lang.ClassNotFoundException: cofh.thermaldynamics.ducts.fluid.TileFluidDuct
+[20:57:12] [Client thread/INFO]: [Engineer Toolbox] Engineer Toolbox mod not found.
+[20:57:12] [Client thread/INFO]: [ProjectRed] ProjectRed|Integration mod not found.
+[20:57:12] [Client thread/INFO]: ExtraUtilities mod found.
+[20:57:12] [Client thread/INFO]: [OpenBlocks] OpenBlocks mod not found.
+[20:57:12] [Client thread/INFO]: [Railcraft] Railcraft mod not found.
+[20:57:12] [Client thread/INFO]: [PamHarvestCraft] PamHarvestCraft mod not found.
+[20:57:12] [Client thread/INFO]: [MagicalCrops] MagicalCrops mod not found.
+[20:57:12] [Client thread/INFO]: [Statues] Statues mod not found.
+[20:57:12] [Client thread/INFO]: [Agriculture] Agriculture mod not found.
+[20:57:12] [Client thread/INFO]: Trying to reflect thaumic.tinkerer.common.compat.TTinkererProvider callbackRegister
+[20:57:12] [Client thread/INFO]: Success in registering ThaumicTinkerer
+[20:57:12] [Client thread/INFO]: Trying to reflect com.arc.bloodarsenal.common.misc.WAILAPlugin registerAddon
+[20:57:12] [Client thread/INFO]: Success in registering BloodArsenal
+[20:57:12] [Client thread/INFO]: Trying to reflect com.jaquadro.minecraft.storagedrawers.integration.Waila registerProvider
+[20:57:12] [Client thread/INFO]: Success in registering StorageDrawers
+[20:57:12] [Client thread/INFO]: Trying to reflect squeek.wailaharvestability.WailaHandler callbackRegister
+[20:57:12] [Client thread/INFO]: Success in registering WailaHarvestability
+[20:57:12] [Client thread/INFO]: Trying to reflect net.blay09.mods.waystones.compat.WailaProvider register
+[20:57:12] [Client thread/INFO]: Success in registering waystones
+[20:57:12] [Client thread/INFO]: Trying to reflect com.emoniph.witchery.integration.ModHookWailaRegistrar callbackRegister
+[20:57:12] [Client thread/INFO]: Success in registering witchery
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: java.lang.RuntimeException: ItemStack with null item found in ShapedRecipes getRecipeOutput()
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.rwtema.extrautils.tileentity.enderconstructor.EnderConstructorRecipesHandler.postInit(EnderConstructorRecipesHandler.java:64)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.rwtema.extrautils.ExtraUtils.specialInit(ExtraUtils.java:1370)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.rwtema.extrautils.ExtraUtils.loadComplete(ExtraUtils.java:2015)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.rwtema.extrautils.ExtraUtilsMod.loadComplete(ExtraUtilsMod.java:50)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:745)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:311)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:552)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.client.main.Main.main(SourceFile:148)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: java.lang.RuntimeException: ItemStack with null item found in ShapedRecipes getRecipeOutput()
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.rwtema.extrautils.tileentity.enderconstructor.EnderConstructorRecipesHandler.postInit(EnderConstructorRecipesHandler.java:64)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.rwtema.extrautils.ExtraUtils.specialInit(ExtraUtils.java:1370)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.rwtema.extrautils.ExtraUtils.loadComplete(ExtraUtils.java:2015)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.rwtema.extrautils.ExtraUtilsMod.loadComplete(ExtraUtilsMod.java:50)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:745)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:311)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:552)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.client.main.Main.main(SourceFile:148)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[20:57:12] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[20:57:12] [Client thread/INFO]: Forge Mod Loader has successfully loaded 52 mods
+[20:57:12] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Advanced Botany, FMLFileResourcePack:The Aether, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Aroma1997Core|Helper, FMLFileResourcePack:AromaBackup, FMLFileResourcePack:AromaBackup Recovery, FMLFileResourcePack:Baubles-Hud, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Blood Arsenal, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Botania, FMLFileResourcePack:BotaniaVisualizer, FMLFileResourcePack:Chunk Pregenerator, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Gadomancy, FMLFileResourcePack:Gravestone, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Backpacks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Mod Tweaker 2, FMLFileResourcePack:Advent of Ascension, FMLFileResourcePack:NodalMechanics, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:Roguelike Dungeons, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Tainted Magic, FMLFileResourcePack:TC Inventory Scanning, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumcraft NEI Plugin, FMLFileResourcePack:ThaumicHorizons, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:TradeBooth, FMLFileResourcePack:Traveller's Gear, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Waila, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:Waystones, FMLFileResourcePack:Witchery, FMLFileResourcePack:WitcheryPatch, FMLFileResourcePack:Witching Gadgets, FMLFileResourcePack:Blood Baubles, FMLFileResourcePack:Baubles
+[20:57:12] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[20:57:12] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[20:57:12] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[20:57:12] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[20:57:12] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[20:57:12] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[20:57:17] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
+[20:57:20] [Client thread/INFO]: Created: 2048x2048 textures/items-atlas
+[20:57:20] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[20:57:20] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[20:57:20] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[20:57:20] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[20:57:20] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[20:57:20] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[20:57:20] [Thread-17/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[20:57:20] [Thread-17/INFO]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:57:20] [Thread-17/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[20:57:20] [Client thread/ERROR]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[20:57:20] [Client thread/ERROR]: The following texture errors were found.
+[20:57:20] [Client thread/ERROR]: ==================================================
+[20:57:20] [Client thread/ERROR]:   DOMAIN minecraft
+[20:57:20] [Client thread/ERROR]: --------------------------------------------------
+[20:57:20] [Client thread/ERROR]:   domain minecraft is missing 29 textures
+[20:57:20] [Client thread/ERROR]:     domain minecraft has 5 locations:
+[20:57:20] [Client thread/ERROR]:       unknown resourcepack type net.minecraft.client.resources.DefaultResourcePack : Default
+[20:57:20] [Client thread/ERROR]:       mod AdvancedBotany resources at E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\mods\Advanced Botany 1.3.1.7.jar
+[20:57:20] [Client thread/ERROR]:       mod Botania resources at E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\mods\Botania r1.8-249.jar
+[20:57:20] [Client thread/ERROR]:       mod journeymap resources at E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\mods\journeymap-1.7.10-5.1.4p6-unlimited.jar
+[20:57:20] [Client thread/ERROR]:       mod Thaumcraft resources at E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\mods\Thaumcraft-1.7.10-4.2.3.5.jar
+[20:57:20] [Client thread/ERROR]: -------------------------
+[20:57:20] [Client thread/ERROR]:     The missing resources for domain minecraft are:
+[20:57:20] [Client thread/ERROR]:       textures/blocks/MISSING_ICON_BLOCK_800_blockSpellParadigm.png
+[20:57:20] [Client thread/ERROR]:       textures/blocks/MISSING_ICON_BLOCK_690_engineerHopper.png
+[20:57:20] [Client thread/ERROR]:       textures/blocks/MISSING_ICON_BLOCK_809_crystalBelljar.png
+[20:57:20] [Client thread/ERROR]:       textures/items/MISSING_ICON_ITEM_7085_focusShadowbeam.png
+[20:57:20] [Client thread/ERROR]:       textures/blocks/MISSING_ICON_BLOCK_806_schematicSaver.png
+[20:57:20] [Client thread/ERROR]:       textures/blocks/MISSING_ICON_BLOCK_803_blockSpellEffect.png
+[20:57:20] [Client thread/ERROR]:       textures/items/MISSING_ICON_ITEM_7075_itemAspect.png
+[20:57:20] [Client thread/ERROR]:       textures/blocks/MISSING_ICON_BLOCK_681_advancedSpreader.png
+[20:57:20] [Client thread/ERROR]:       textures/items/MISSING_ICON_ITEM_7106_focusFlight.png
+[20:57:20] [Client thread/ERROR]:       textures/blocks/MISSING_ICON_BLOCK_686_ABManaCrystalCube.png
+[20:57:20] [Client thread/ERROR]:       textures/blocks/MISSING_ICON_BLOCK_802_blockSpellModifier.png
+[20:57:20] [Client thread/ERROR]:       textures/blocks/MISSING_ICON_BLOCK_689_ABManaCharger.png
+[20:57:20] [Client thread/ERROR]:       textures/blocks/MISSING_ICON_BLOCK_682_ABPlate.png
+[20:57:20] [Client thread/ERROR]:       textures/blocks/planks.png
+[20:57:20] [Client thread/ERROR]:       textures/blocks/MISSING_ICON_BLOCK_688_null.png
+[20:57:20] [Client thread/ERROR]:       textures/blocks/MISSING_ICON_BLOCK_808_alchemicCalcinator.png
+[20:57:20] [Client thread/ERROR]:       textures/blocks/MISSING_ICON_BLOCK_801_blockSpellEnhancement.png
+[20:57:20] [Client thread/ERROR]:       textures/items/MISSING_ICON_ITEM_7108_focusSmelt.png
+[20:57:20] [Client thread/ERROR]:       textures/items/MISSING_ICON_ITEM_6678_ItemKatana.png
+[20:57:20] [Client thread/ERROR]:       textures/blocks/MISSING_ICON_BLOCK_812_blockMimic.png
+[20:57:20] [Client thread/ERROR]:       textures/items/MISSING_ICON_ITEM_7098_focusXPDrain.png
+[20:57:20] [Client thread/ERROR]:       textures/items/MISSING_ICON_ITEM_7122_focusRecall.png
+[20:57:20] [Client thread/ERROR]:       textures/items/MISSING_ICON_ITEM_7105_focusEnderChest.png
+[20:57:20] [Client thread/ERROR]:       textures/items/MISSING_ICON_ITEM_7076_focusDislocation.png
+[20:57:20] [Client thread/ERROR]:       textures/blocks/MISSING_ICON_BLOCK_683_ABManaContainer.png
+[20:57:20] [Client thread/ERROR]:       textures/items/MISSING_ICON_ITEM_7119_focusHeal.png
+[20:57:20] [Client thread/ERROR]:       textures/items/MISSING_ICON_ITEM_7095_focusTelekinesis.png
+[20:57:20] [Client thread/ERROR]:       textures/items/MISSING_ICON_BLOCK_458_gaiaHeadBlock_skeleton.png
+[20:57:20] [Client thread/ERROR]:       textures/items/MISSING_ICON_ITEM_7126_focusDeflect.png
+[20:57:20] [Client thread/ERROR]: -------------------------
+[20:57:20] [Client thread/ERROR]:     No other errors exist for domain minecraft
+[20:57:20] [Client thread/ERROR]: ==================================================
+[20:57:20] [Client thread/ERROR]: ==================================================
+[20:57:20] [Client thread/ERROR]:   DOMAIN ttinkerer
+[20:57:20] [Client thread/ERROR]: --------------------------------------------------
+[20:57:20] [Client thread/ERROR]:   domain ttinkerer is missing 7 textures
+[20:57:20] [Client thread/ERROR]:     domain ttinkerer has 1 location:
+[20:57:20] [Client thread/ERROR]:       mod ThaumicTinkerer resources at E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\mods\ThaumicTinkerer-2.5-1.7.10-164.jar
+[20:57:20] [Client thread/ERROR]: -------------------------
+[20:57:20] [Client thread/ERROR]:     The missing resources for domain ttinkerer are:
+[20:57:20] [Client thread/ERROR]:       textures/blocks/repairer.png
+[20:57:20] [Client thread/ERROR]:       textures/items/ichorSwordGem.png
+[20:57:20] [Client thread/ERROR]:       textures/blocks/magnet.png
+[20:57:20] [Client thread/ERROR]:       textures/items/ichorAxeGem.png
+[20:57:20] [Client thread/ERROR]:       textures/items/ichorShovelGem.png
+[20:57:20] [Client thread/ERROR]:       textures/items/mobAspect.png
+[20:57:20] [Client thread/ERROR]:       textures/items/ichorPickGem.png
+[20:57:20] [Client thread/ERROR]: -------------------------
+[20:57:20] [Client thread/ERROR]:     No other errors exist for domain ttinkerer
+[20:57:20] [Client thread/ERROR]: ==================================================
+[20:57:20] [Client thread/ERROR]: ==================================================
+[20:57:20] [Client thread/ERROR]:   DOMAIN botania
+[20:57:20] [Client thread/ERROR]: --------------------------------------------------
+[20:57:20] [Client thread/ERROR]:   domain botania is missing 1 texture
+[20:57:20] [Client thread/ERROR]:     domain botania has 2 locations:
+[20:57:20] [Client thread/ERROR]:       mod AdvancedBotany resources at E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\mods\Advanced Botany 1.3.1.7.jar
+[20:57:20] [Client thread/ERROR]:       mod Botania resources at E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\mods\Botania r1.8-249.jar
+[20:57:20] [Client thread/ERROR]: -------------------------
+[20:57:20] [Client thread/ERROR]:     The missing resources for domain botania are:
+[20:57:20] [Client thread/ERROR]:       textures/blocks/alt/clayconiaChibi.png
+[20:57:20] [Client thread/ERROR]: -------------------------
+[20:57:20] [Client thread/ERROR]:     No other errors exist for domain botania
+[20:57:20] [Client thread/ERROR]: ==================================================
+[20:57:20] [Client thread/ERROR]: ==================================================
+[20:57:20] [Client thread/ERROR]:   DOMAIN bloodarsenal
+[20:57:20] [Client thread/ERROR]: --------------------------------------------------
+[20:57:20] [Client thread/ERROR]:   domain bloodarsenal is missing 1 texture
+[20:57:20] [Client thread/ERROR]:     domain bloodarsenal has 1 location:
+[20:57:20] [Client thread/ERROR]:       mod BloodArsenal resources at E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\mods\BloodArsenal-1.7.10-1.2-5.jar
+[20:57:20] [Client thread/ERROR]: -------------------------
+[20:57:20] [Client thread/ERROR]:     The missing resources for domain bloodarsenal are:
+[20:57:20] [Client thread/ERROR]:       textures/blocks/life_infuser.png
+[20:57:20] [Client thread/ERROR]: -------------------------
+[20:57:20] [Client thread/ERROR]:     No other errors exist for domain bloodarsenal
+[20:57:20] [Client thread/ERROR]: ==================================================
+[20:57:20] [Client thread/ERROR]: ==================================================
+[20:57:20] [Client thread/ERROR]:   DOMAIN alchemicalwizardry
+[20:57:20] [Client thread/ERROR]: --------------------------------------------------
+[20:57:20] [Client thread/ERROR]:   domain alchemicalwizardry is missing 1 texture
+[20:57:20] [Client thread/ERROR]:     domain alchemicalwizardry has 1 location:
+[20:57:20] [Client thread/ERROR]:       mod AWWayofTime resources at E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[20:57:20] [Client thread/ERROR]: -------------------------
+[20:57:20] [Client thread/ERROR]:     The missing resources for domain alchemicalwizardry are:
+[20:57:20] [Client thread/ERROR]:       textures/items/SigilOfTheFastMiner.png
+[20:57:20] [Client thread/ERROR]: -------------------------
+[20:57:20] [Client thread/ERROR]:     No other errors exist for domain alchemicalwizardry
+[20:57:20] [Client thread/ERROR]: ==================================================
+[20:57:20] [Client thread/ERROR]: ==================================================
+[20:57:20] [Client thread/ERROR]:   DOMAIN harvestcraft
+[20:57:20] [Client thread/ERROR]: --------------------------------------------------
+[20:57:20] [Client thread/ERROR]:   domain harvestcraft is missing 1 texture
+[20:57:20] [Client thread/ERROR]:     domain harvestcraft has 1 location:
+[20:57:20] [Client thread/ERROR]:       mod harvestcraft resources at E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\mods\Pam's HarvestCraft 1.7.10Lb.jar
+[20:57:20] [Client thread/ERROR]: -------------------------
+[20:57:20] [Client thread/ERROR]:     The missing resources for domain harvestcraft are:
+[20:57:20] [Client thread/ERROR]:       textures/items/chocolaterollItem.png
+[20:57:20] [Client thread/ERROR]: -------------------------
+[20:57:20] [Client thread/ERROR]:     No other errors exist for domain harvestcraft
+[20:57:20] [Client thread/ERROR]: ==================================================
+[20:57:20] [Client thread/ERROR]: ==================================================
+[20:57:20] [Client thread/ERROR]:   DOMAIN missing_icon_item_4602_extrautils
+[20:57:20] [Client thread/ERROR]: --------------------------------------------------
+[20:57:20] [Client thread/ERROR]:   domain missing_icon_item_4602_extrautils is missing 1 texture
+[20:57:20] [Client thread/ERROR]:     domain missing_icon_item_4602_extrautils is missing a resource manager - it is probably a side-effect of automatic texture processing
+[20:57:20] [Client thread/ERROR]: -------------------------
+[20:57:20] [Client thread/ERROR]:     The missing resources for domain missing_icon_item_4602_extrautils are:
+[20:57:20] [Client thread/ERROR]:       textures/items/lawSword.png
+[20:57:20] [Client thread/ERROR]: -------------------------
+[20:57:20] [Client thread/ERROR]:     No other errors exist for domain missing_icon_item_4602_extrautils
+[20:57:20] [Client thread/ERROR]: ==================================================
+[20:57:20] [Client thread/ERROR]: ==================================================
+[20:57:20] [Client thread/ERROR]:   DOMAIN missing_icon_block_2371_waystones
+[20:57:20] [Client thread/ERROR]: --------------------------------------------------
+[20:57:20] [Client thread/ERROR]:   domain missing_icon_block_2371_waystones is missing 1 texture
+[20:57:20] [Client thread/ERROR]:     domain missing_icon_block_2371_waystones is missing a resource manager - it is probably a side-effect of automatic texture processing
+[20:57:20] [Client thread/ERROR]: -------------------------
+[20:57:20] [Client thread/ERROR]:     The missing resources for domain missing_icon_block_2371_waystones are:
+[20:57:20] [Client thread/ERROR]:       textures/blocks/waystone.png
+[20:57:20] [Client thread/ERROR]: -------------------------
+[20:57:20] [Client thread/ERROR]:     No other errors exist for domain missing_icon_block_2371_waystones
+[20:57:20] [Client thread/ERROR]: ==================================================
+[20:57:20] [Client thread/ERROR]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[20:57:20] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[20:57:20] [Sound Library Loader/INFO]: Sound engine started
+[20:57:22] [Client thread/INFO]: Loading blocks and textures...
+[20:57:22] [Client thread/INFO]: Built BlockMD cache (3923) : BlockMD.reset count 1 avg 121,86ms
+[20:57:22] [Client thread/INFO]: initBlocksTexture: 2048x1024 loaded in 139.7865ms
+[20:57:22] [Client thread/WARN]: Existing color palette's mods no longer match current loadout.
+[20:57:22] [Client thread/INFO]: WAS: Advanced Botany:1.3.1.7, AnimationAPI:1.2.4, Aroma1997Core:1.0.2.16, Aroma1997Core|Helper:1.0.2.16, AromaBackup Recovery:1.0, AromaBackup:0.1.0.0, Baubles-Hud:2.0.1, Baubles:1.0.1.10, Biomes O' Plenty:2.1.0, Blood Arsenal:1.2-5, Blood Baubles:1.2, Blood Magic: Alchemical Wizardry:v1.3.3, Botania:r1.8-249, BotaniaVisualizer:1.7.2-1.0a, Chunk Pregenerator:2.5.0, CodeChicken Core:1.0.7.48, Extra Utilities:1.2.12, Forge Mod Loader:7.10.99.99, Gadomancy:1.0.7.3, Gravestone:0.7.10.3, Inventory Tweaks:1.59-dev-152-cf6e263, Iron Backpacks:1.7.10-1.2.20, Iron Chest:6.0.62.742, JourneyMap:5.1.4p6, MineTweaker 3:3.1.0, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, NodalMechanics:1.7.10R1.0, Not Enough Items:1.0.5.120, Pam's HarvestCraft:1.7.10j, Roguelike Dungeons:1.5.0, Storage Drawers:1.7.10-1.10.9, TC Inventory Scanning:1.0.11, Tainted Magic:8.1.1, Thaumcraft NEI Plugin:@VERSION@, Thaumcraft:4.2.3.5, Thaumic Tinkerer Core:0.1, Thaumic Tinkerer:unspecified, ThaumicHorizons:1.3.5, The Aether:v1.1.2.2, The Twilight Forest:2.3.8dev, TradeBooth:1.7.10.6, Traveller's Gear:1.16.6, Waila Harvestability:1.1.6, Waila:1.5.10, Waystones:1.0.12, Witchery:0.24.1, WitcheryPatch:1.0.0, Witching Gadgets Core:1.1.10, Witching Gadgets:1.1.10
+NOW: Advanced Botany:1.3.1.7, Advent of Ascension:Tslat-1.1.2, AnimationAPI:1.2.4, Aroma1997Core:1.0.2.16, Aroma1997Core|Helper:1.0.2.16, AromaBackup Recovery:1.0, AromaBackup:0.1.0.0, Baubles-Hud:2.0.1, Baubles:1.0.1.10, Biomes O' Plenty:2.1.0, Blood Arsenal:1.2-5, Blood Baubles:1.2, Blood Magic: Alchemical Wizardry:v1.3.3, Botania:r1.8-249, BotaniaVisualizer:1.7.2-1.0a, Chunk Pregenerator:2.5.0, CodeChicken Core:1.0.7.48, Extra Utilities:1.2.12, Forge Mod Loader:7.10.99.99, Gadomancy:1.0.7.3, Gravestone:0.7.10.3, Inventory Tweaks:1.59-dev-152-cf6e263, Iron Backpacks:1.7.10-1.2.20, Iron Chest:6.0.62.742, JourneyMap:5.1.4p6, MineTweaker 3:3.1.0, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Mod Tweaker 2:0.9.6, NodalMechanics:1.7.10R1.0, Not Enough Items:1.0.5.120, Pam's HarvestCraft:1.7.10j, Roguelike Dungeons:1.5.0, Storage Drawers:1.7.10-1.10.9, TC Inventory Scanning:1.0.11, Tainted Magic:8.1.1, Thaumcraft NEI Plugin:@VERSION@, Thaumcraft:4.2.3.5, Thaumic Tinkerer Core:0.1, Thaumic Tinkerer:unspecified, ThaumicHorizons:1.3.5, The Aether:v1.1.2.2, The Twilight Forest:2.3.8dev, TradeBooth:1.7.10.6, Traveller's Gear:1.16.6, Waila Harvestability:1.1.6, Waila:1.5.10, Waystones:1.0.12, Witchery:0.24.1, WitcheryPatch:1.0.0, Witching Gadgets Core:1.1.10, Witching Gadgets:1.1.10
+[20:57:22] [Client thread/INFO]: Initialized 3689 block colors from mods and resource packs in 257ms
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ThaumicHorizons:light:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:etherealglass:0] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:etherealglass:2] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:etherealglass:1] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:etherealglass:4] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:etherealglass:3] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:etherealglass:5] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [TwilightForest:tile.GiantObsidian:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [Thaumcraft:blockAiry:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [Thaumcraft:blockWarded:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [AWWayofTime:spectralContainer:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [TwilightForest:tile.CastleDoorVanished:0] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ThaumicHorizons:lightSolar:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [Thaumcraft:blockEldritchNothing:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [Thaumcraft:blockPortalEldritch:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [TaintedMagic:BlockLumos:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [TwilightForest:tile.GiantLeaves:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [witchery:force:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [TwilightForest:tile.GiantCobble:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [AWWayofTime:bloodLight:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [TwilightForest:tile.HugeLilyPad:0] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock2:5] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock2:4] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock2:7] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock2:6] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock2:8] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock2:11] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock2:10] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock2:1] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock2:0] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock2:3] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock2:2] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock1:14] (Transparency,Error)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock1:13] (Transparency,Error)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:0] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:2] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:1] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:4] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:3] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:6] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:5] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:8] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock1:4] (Transparency,Error)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:7] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock1:3] (Transparency,Error)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:10] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:9] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock1:5] (Transparency,Error)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:12] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:11] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock1:7] (Transparency,Error)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:14] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock1:10] (Transparency,Error)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:13] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:15] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock1:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock1:2] (Transparency,Error)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock1:1] (Transparency,Error)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [WitchingGadgets:WG_CustomAir:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [gadomancy:BlockAdditionalEldritchPortal:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN]: Block with Error flag won't be saved to color palette: BlockMD [TwilightForest:tile.GiantLog:0] (Transparency,Error)
+[20:57:22] [Client thread/INFO]: Color palette file generated with 3626 colors in 123ms for: E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\journeymap\colorpalette.json
+[20:57:22] [Client thread/INFO]: Updated color palette file: E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\journeymap\colorpalette.json
+[20:57:39] [Client thread/INFO]: Stopping!
+[20:57:39] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[20:57:39] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[20:57:39] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[20:57:39] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 

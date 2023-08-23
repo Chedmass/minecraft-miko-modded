@@ -1,0 +1,133 @@
+[20:57:00] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[20:57:00] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[20:57:00] [Client thread/INFO] [PropertiesBase] Loaded CoreProperties from E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\journeymap\config\5.1\journeymap.core.config
+[20:57:00] [Client thread/INFO] [PropertiesBase] Loaded FullMapProperties from E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\journeymap\config\5.1\journeymap.fullmap.config
+[20:57:00] [Client thread/INFO] [PropertiesBase] Loaded MiniMapProperties from E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\journeymap\config\5.1\journeymap.minimap.config
+[20:57:00] [Client thread/INFO] [PropertiesBase] Loaded MiniMapProperties2 from E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\journeymap\config\5.1\journeymap.minimap2.config
+[20:57:00] [Client thread/INFO] [PropertiesBase] Loaded WebMapProperties from E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\journeymap\config\5.1\journeymap.webmap.config
+[20:57:00] [Client thread/INFO] [PropertiesBase] Loaded WaypointProperties from E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\journeymap\config\5.1\journeymap.waypoint.config
+[20:57:00] [Client thread/INFO] [?] Version: JourneyMap 5.1.4p6 Unlimited, built with Forge 10.13.4.1558
+Forge: 10.13.4.1614
+Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_US, locale=en_us
+Unlimited Features: 
+	RadarPlayers : singleplayer = true , multiplayer = true
+	RadarAnimals : singleplayer = true , multiplayer = true
+	RadarMobs : singleplayer = true , multiplayer = true
+	RadarVillagers : singleplayer = true , multiplayer = true
+	MapCaves : singleplayer = true , multiplayer = true
+MiniMapProperties{entityIconSetName=2D, showAnimals=true, showMobs=true, showPets=true, showPlayers=true, showSelf=true, showVillagers=true, showWaypoints=true, zoomLevel=0, fontScale=1, locationFormat=xzyv, locationFormatVerbose=true, showCaves=true, showWaypointLabels=true, showMobHeading=true, showPlayerHeading=true, textureSmall=true, active=true, compassFontScale=1, enabled=true, frameAlpha=100, name=minimap, orientation=North, position=Top Right, preferredMapType=night, reticleOrientation=Compass, shape=Circle, showBiome=true, showCompass=true, showFps=false, showLocation=true, showReticle=true, sizePercent=30, terrainAlpha=100}
+MiniMapProperties2{enabled=true, shape=Rectangle, position=Top Center, showFps=false, showBiome=true, showLocation=true, showWaypointLabels=true, sizePercent=30, frameAlpha=60, terrainAlpha=60, orientation=My Heading, compassFontScale=1, showCompass=true, showReticle=true, reticleOrientation=Compass, preferredMapType=day, name=minimap2, id=2}
+FullMapProperties{entityIconSetName=2D, showAnimals=true, showMobs=true, showPets=true, showPlayers=true, showSelf=true, showVillagers=true, showWaypoints=true, zoomLevel=0, fontScale=1, locationFormat=xzyv, locationFormatVerbose=true, showCaves=true, showWaypointLabels=true, showMobHeading=true, showPlayerHeading=true, textureSmall=true, preferredMapType=day, showGrid=true}
+WaypointProperties{autoHideLabel=true, beaconEnabled=true, boldLabel=false, createDeathpoints=true, fontScale=2, managerEnabled=true, maxDistance=0, name=waypoint, showDistance=true, showName=true, showRotatingBeam=true, showStaticBeam=true, showTexture=true, textureSmall=true}
+WebMapProperties: , enabled=false, port=8080, showMobs=true, showAnimals=true, showVillagers=true, showPets=true, showPlayers=true, showWaypoints=true, entityIconSetName=2D
+CoreProperties{announceMod=true, autoMapPoll=2000, browserPoll=2000, cacheAnimalsData=3100, cacheMobsData=3000, cachePlayerData=1000, cachePlayersData=2000, cacheVillagersData=2200, caveIgnoreGlass=true, isUpdateCheckEnabled=true, renderDelay=2, hideSneakingEntities=true, logLevel=INFO, mapAntialiasing=true, mapBathymetry=false, mapCaveLighting=true, mapCrops=true, mapPlants=false, mapPlantShadows=false, mapSurfaceAboveCaves=true, tileHighDisplayQuality=true, mapTransparency=true, maxAnimalsData=32, maxMobsData=32, maxPlayersData=32, maxVillagersData=32, optionsManagerViewed=, radarLateralDistance=64, radarVerticalDistance=16, recordCacheStats=false, renderOverlayEventTypeName=ALL, renderOverlayPreEvent=true, renderDistanceCaveMin=3, renderDistanceCaveMax=3, renderDistanceSurfaceMin=4, renderDistanceSurfaceMax=7, revealShape=Circle, themeName=Victorian, tileRenderType=1}
+[20:57:00] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg �ms
+[20:57:11] [Client thread/INFO] [JourneymapClient] postInitialize ENTER
+[20:57:11] [Client thread/INFO] [WorldInfoHandler] Registered channel: world_info
+[20:57:11] [Client thread/INFO] [IconSetFileHandler] Initializing icon sets...
+[20:57:12] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
+java.net.UnknownHostException: widget.mcf.li
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184) ~[?:1.8.0_51]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172) ~[?:1.8.0_51]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_51]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_51]
+	at java.net.Socket.connect(Socket.java:538) ~[?:1.8.0_51]
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180) ~[?:1.8.0_51]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432) ~[?:1.8.0_51]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527) ~[?:1.8.0_51]
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211) ~[?:1.8.0_51]
+	at sun.net.www.http.HttpClient.New(HttpClient.java:308) ~[?:1.8.0_51]
+	at sun.net.www.http.HttpClient.New(HttpClient.java:326) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1168) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1104) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:988) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:986) ~[?:1.8.0_51]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_51]
+	at java.security.AccessController.doPrivileged(AccessController.java:713) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:985) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:932) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1512) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430) ~[?:1.8.0_51]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_51]
+	at java.security.AccessController.doPrivileged(AccessController.java:713) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429) ~[?:1.8.0_51]
+	at java.net.URL.openStream(URL.java:1038) ~[?:1.8.0_51]
+	at journeymap.common.version.VersionCheck$1.run(VersionCheck.java:128) [VersionCheck$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_51]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_51]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[20:57:12] [Client thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r857,96§8ms§r
+[20:57:22] [Client thread/INFO] [ColorManager] Loading blocks and textures...
+[20:57:22] [Client thread/INFO] [BlockMD] Built BlockMD cache (3923) : BlockMD.reset count 1 avg 121,86ms
+[20:57:22] [Client thread/INFO] [ColorHelper_1_7_10] initBlocksTexture: 2048x1024 loaded in 139.7865ms
+[20:57:22] [Client thread/WARN] [ColorPalette] Existing color palette's mods no longer match current loadout.
+[20:57:22] [Client thread/INFO] [ColorPalette] WAS: Advanced Botany:1.3.1.7, AnimationAPI:1.2.4, Aroma1997Core:1.0.2.16, Aroma1997Core|Helper:1.0.2.16, AromaBackup Recovery:1.0, AromaBackup:0.1.0.0, Baubles-Hud:2.0.1, Baubles:1.0.1.10, Biomes O' Plenty:2.1.0, Blood Arsenal:1.2-5, Blood Baubles:1.2, Blood Magic: Alchemical Wizardry:v1.3.3, Botania:r1.8-249, BotaniaVisualizer:1.7.2-1.0a, Chunk Pregenerator:2.5.0, CodeChicken Core:1.0.7.48, Extra Utilities:1.2.12, Forge Mod Loader:7.10.99.99, Gadomancy:1.0.7.3, Gravestone:0.7.10.3, Inventory Tweaks:1.59-dev-152-cf6e263, Iron Backpacks:1.7.10-1.2.20, Iron Chest:6.0.62.742, JourneyMap:5.1.4p6, MineTweaker 3:3.1.0, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, NodalMechanics:1.7.10R1.0, Not Enough Items:1.0.5.120, Pam's HarvestCraft:1.7.10j, Roguelike Dungeons:1.5.0, Storage Drawers:1.7.10-1.10.9, TC Inventory Scanning:1.0.11, Tainted Magic:8.1.1, Thaumcraft NEI Plugin:@VERSION@, Thaumcraft:4.2.3.5, Thaumic Tinkerer Core:0.1, Thaumic Tinkerer:unspecified, ThaumicHorizons:1.3.5, The Aether:v1.1.2.2, The Twilight Forest:2.3.8dev, TradeBooth:1.7.10.6, Traveller's Gear:1.16.6, Waila Harvestability:1.1.6, Waila:1.5.10, Waystones:1.0.12, Witchery:0.24.1, WitcheryPatch:1.0.0, Witching Gadgets Core:1.1.10, Witching Gadgets:1.1.10
+NOW: Advanced Botany:1.3.1.7, Advent of Ascension:Tslat-1.1.2, AnimationAPI:1.2.4, Aroma1997Core:1.0.2.16, Aroma1997Core|Helper:1.0.2.16, AromaBackup Recovery:1.0, AromaBackup:0.1.0.0, Baubles-Hud:2.0.1, Baubles:1.0.1.10, Biomes O' Plenty:2.1.0, Blood Arsenal:1.2-5, Blood Baubles:1.2, Blood Magic: Alchemical Wizardry:v1.3.3, Botania:r1.8-249, BotaniaVisualizer:1.7.2-1.0a, Chunk Pregenerator:2.5.0, CodeChicken Core:1.0.7.48, Extra Utilities:1.2.12, Forge Mod Loader:7.10.99.99, Gadomancy:1.0.7.3, Gravestone:0.7.10.3, Inventory Tweaks:1.59-dev-152-cf6e263, Iron Backpacks:1.7.10-1.2.20, Iron Chest:6.0.62.742, JourneyMap:5.1.4p6, MineTweaker 3:3.1.0, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Mod Tweaker 2:0.9.6, NodalMechanics:1.7.10R1.0, Not Enough Items:1.0.5.120, Pam's HarvestCraft:1.7.10j, Roguelike Dungeons:1.5.0, Storage Drawers:1.7.10-1.10.9, TC Inventory Scanning:1.0.11, Tainted Magic:8.1.1, Thaumcraft NEI Plugin:@VERSION@, Thaumcraft:4.2.3.5, Thaumic Tinkerer Core:0.1, Thaumic Tinkerer:unspecified, ThaumicHorizons:1.3.5, The Aether:v1.1.2.2, The Twilight Forest:2.3.8dev, TradeBooth:1.7.10.6, Traveller's Gear:1.16.6, Waila Harvestability:1.1.6, Waila:1.5.10, Waystones:1.0.12, Witchery:0.24.1, WitcheryPatch:1.0.0, Witching Gadgets Core:1.1.10, Witching Gadgets:1.1.10
+[20:57:22] [Client thread/INFO] [ColorManager] Initialized 3689 block colors from mods and resource packs in 257ms
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ThaumicHorizons:light:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:etherealglass:0] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:etherealglass:2] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:etherealglass:1] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:etherealglass:4] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:etherealglass:3] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:etherealglass:5] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [TwilightForest:tile.GiantObsidian:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [Thaumcraft:blockAiry:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [Thaumcraft:blockWarded:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [AWWayofTime:spectralContainer:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [TwilightForest:tile.CastleDoorVanished:0] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ThaumicHorizons:lightSolar:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [Thaumcraft:blockEldritchNothing:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [Thaumcraft:blockPortalEldritch:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [TaintedMagic:BlockLumos:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [TwilightForest:tile.GiantLeaves:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [witchery:force:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [TwilightForest:tile.GiantCobble:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [AWWayofTime:bloodLight:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [TwilightForest:tile.HugeLilyPad:0] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock2:5] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock2:4] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock2:7] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock2:6] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock2:8] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock2:11] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock2:10] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock2:1] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock2:0] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock2:3] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock2:2] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock1:14] (Transparency,Error)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock1:13] (Transparency,Error)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:0] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:2] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:1] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:4] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:3] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:6] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:5] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:8] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock1:4] (Transparency,Error)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:7] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock1:3] (Transparency,Error)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:10] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:9] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock1:5] (Transparency,Error)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:12] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:11] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock1:7] (Transparency,Error)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:14] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock1:10] (Transparency,Error)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:13] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:15] (NoShadow,Transparency,Error,Plant,NoTopo)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock1:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock1:2] (Transparency,Error)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraUtilities:decorativeBlock1:1] (Transparency,Error)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [WitchingGadgets:WG_CustomAir:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [gadomancy:BlockAdditionalEldritchPortal:0] (Transparency,Error)
+[20:57:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [TwilightForest:tile.GiantLog:0] (Transparency,Error)
+[20:57:22] [Client thread/INFO] [ColorPalette] Color palette file generated with 3626 colors in 123ms for: E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\journeymap\colorpalette.json
+[20:57:22] [Client thread/INFO] [ColorManager] Updated color palette file: E:\Projects\miko-magic\launcher with mods\Minecraft for Miko-Magic\minecraft\game\journeymap\colorpalette.json
